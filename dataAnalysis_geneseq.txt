@@ -1,0 +1,281 @@
+>ENSEMBL01 GeneID 01
+[1] Nucleotide Counts: A=269 T=269 G=148 C=123 Other=0
+[4] Restriction Sites:
+Name	 Pos	 Seq		 IUPAC	 ALT
+BclI	 39	 ACAAGGG	 ACAAGGG	 ACAAGGG
+BfmI	 469	 GGAGCACT	 GGRGCAYT	 GG[AG]GCA[CT]T
+EcoRI	 538	 AGGATTTA	 AGGNTTTA	 AGG[ACGT]TTTA
+Cac8I	 -1	     		 TGGCCY		 TGGCC[CT]
+[2] GC Content: 0.035665
+[3] Sequence length: 729
+[6] Detection of poly(A) signal (AATAAA):
+No.	Start	End	Signal
+1	9		14	ATTTCA
+2	63		68	ACTTCA
+3	88		93	AATTTA
+4	96		101	ATTCGA
+5	278		283	AGTCCA
+6	391		396	ATTTCA
+7	412		417	AGTAAA
+8	474		479	AGTATA
+9	486		491	ATTACA
+10	518		523	ATTTTA
+11	626		631	AATAAA
+12	670		675	AATTAA
+13	693		698	ATTAAA
+
+>ENSEMBL02 GeneID 02
+[1] Nucleotide Counts: A=248 T=248 G=162 C=123 Other=0
+[4] Restriction Sites:
+Name	 Pos	 Seq		 IUPAC	 ALT
+BclI	 39	 ACAAGGG	 ACAAGGG	 ACAAGGG
+BfmI	 469	 GGAGCACT	 GGRGCAYT	 GG[AG]GCA[CT]T
+EcoRI	 538	 AGGATTTA	 AGGNTTTA	 AGG[ACGT]TTTA
+Cac8I	 -1	     		 TGGCCY		 TGGCC[CT]
+[2] GC Content: 0.036885
+[3] Sequence length: 732
+[6] Detection of poly(A) signal (AATAAA):
+No.	Start	End	Signal
+1	9		14	ATTCTA
+2	63		68	ACTTCA
+3	88		93	AATTTA
+4	96		101	ATTCGA
+5	278		283	AGTCCA
+6	391		396	ATTTCA
+7	474		479	AGTATA
+8	486		491	ATTACA
+9	518		523	ATTTTA
+10	626		631	AATAAA
+11	670		675	AATTAA
+12	693		698	ATTAAA
+
+>ENSEMBL03 GeneID 03
+[1] Nucleotide Counts: A=120 T=120 G=49 C=37 Other=0
+[4] Restriction Sites:
+Name	 Pos	 Seq		 IUPAC	 ALT
+BclI	 -1	  	 ACAAGGG	 ACAAGGG
+BfmI	 32	 GGAGCACT	 GGRGCAYT	 GG[AG]GCA[CT]T
+EcoRI	 101	 AGGATTTA	 AGGNTTTA	 AGG[ACGT]TTTA
+Cac8I	 -1	     		 TGGCCY		 TGGCC[CT]
+[2] GC Content: 0.020548
+[3] Sequence length: 292
+[6] Detection of poly(A) signal (AATAAA):
+No.	Start	End	Signal
+1	37		42	AGTATA
+2	49		54	ATTACA
+3	81		86	ATTTTA
+4	233		238	AATTAA
+
+>ENSEMBL04 GeneID 04
+[1] Nucleotide Counts: A=156 T=156 G=93 C=70 Other=0
+[4] Restriction Sites:
+Name	 Pos	 Seq		 IUPAC	 ALT
+BclI	 -1	  	 ACAAGGG	 ACAAGGG
+BfmI	 186	 GGAGCACT	 GGRGCAYT	 GG[AG]GCA[CT]T
+EcoRI	 255	 AGGATTTA	 AGGNTTTA	 AGG[ACGT]TTTA
+Cac8I	 -1	     		 TGGCCY		 TGGCC[CT]
+[2] GC Content: 0.038636
+[3] Sequence length: 440
+[6] Detection of poly(A) signal (AATAAA):
+No.	Start	End	Signal
+1	108		113	ATTTCA
+2	191		196	AGTATA
+3	203		208	ATTACA
+4	235		240	ATTTTA
+5	345		350	AATAAA
+6	387		392	AATTAA
+7	410		415	ATTAAA
+
+>ENSEMBL05 GeneID 05
+[1] Nucleotide Counts: A=159 T=159 G=91 C=72 Other=0
+[4] Restriction Sites:
+Name	 Pos	 Seq		 IUPAC	 ALT
+BclI	 -1	  	 ACAAGGG	 ACAAGGG
+BfmI	 189	 GGAGCACT	 GGRGCAYT	 GG[AG]GCA[CT]T
+EcoRI	 258	 AGGATTTA	 AGGNTTTA	 AGG[ACGT]TTTA
+Cac8I	 429	 TGGCCC	 TGGCCY		 TGGCC[CT]
+[2] GC Content: 0.000000
+[3] Sequence length: 443
+[6] Detection of poly(A) signal (AATAAA):
+No.	Start	End	Signal
+1	111		116	ATTTCA
+2	194		199	AGTATA
+3	206		211	ATTACA
+4	238		243	ATTTTA
+5	389		394	AATTAA
+6	413		418	ATTAAA
+
+>ENSEMBL06 GeneID 06
+[1] Nucleotide Counts: A=143 T=143 G=80 C=67 Other=0
+[4] Restriction Sites:
+Name	 Pos	 Seq		 IUPAC	 ALT
+BclI	 -1	  	 ACAAGGG	 ACAAGGG
+BfmI	 152	 GGAGCACT	 GGRGCAYT	 GG[AG]GCA[CT]T
+EcoRI	 221	 AGGATTTA	 AGGNTTTA	 AGG[ACGT]TTTA
+Cac8I	 -1	     		 TGGCCY		 TGGCC[CT]
+[2] GC Content: 0.039900
+[3] Sequence length: 401
+[6] Detection of poly(A) signal (AATAAA):
+No.	Start	End	Signal
+1	74		79	ATTTCA
+2	157		162	AGTATA
+3	169		174	ATTACA
+4	201		206	ATTTTA
+5	353		358	AATTAA
+6	376		381	ATTAAA
+
+>ENSEMBL07 GeneID 07
+[1] Nucleotide Counts: A=186 T=186 G=111 C=103 Other=0
+[4] Restriction Sites:
+Name	 Pos	 Seq		 IUPAC	 ALT
+BclI	 179	 ACAAGGG	 ACAAGGG	 ACAAGGG
+BfmI	 -1	  	 GGRGCAYT	 GG[AG]GCA[CT]T
+EcoRI	 -1	  	 AGGNTTTA	 AGG[ACGT]TTTA
+Cac8I	 380	 TGGCCT	 TGGCCY		 TGGCC[CT]
+[2] GC Content: 0.011561
+[3] Sequence length: 519
+[6] Detection of poly(A) signal (AATAAA):
+No.	Start	End	Signal
+1	41		46	ATTTCA
+2	124		129	AGTATA
+3	149		154	ATTCTA
+4	203		208	ACTTCA
+5	228		233	AATTTA
+6	236		241	ATTCGA
+7	418		423	AGTCCA
+
+>ENSEMBL08 GeneID 08
+[1] Nucleotide Counts: A=90 T=90 G=50 C=20 Other=0
+[4] Restriction Sites:
+Name	 Pos	 Seq		 IUPAC	 ALT
+BclI	 -1	  	 ACAAGGG	 ACAAGGG
+BfmI	 -1	  	 GGRGCAYT	 GG[AG]GCA[CT]T
+EcoRI	 48	 AGGATTTA	 AGGNTTTA	 AGG[ACGT]TTTA
+Cac8I	 -1	     		 TGGCCY		 TGGCC[CT]
+[2] GC Content: 0.008264
+[3] Sequence length: 242
+[6] Detection of poly(A) signal (AATAAA):
+No.	Start	End	Signal
+1	28		33	ATTTTA
+2	180		185	AATTAA
+
+>ENSEMBL09 GeneID 09
+[1] Nucleotide Counts: A=134 T=134 G=81 C=74 Other=0
+[4] Restriction Sites:
+Name	 Pos	 Seq		 IUPAC	 ALT
+BclI	 -1	  	 ACAAGGG	 ACAAGGG
+BfmI	 12	 GGAGCACT	 GGRGCAYT	 GG[AG]GCA[CT]T
+EcoRI	 81	 AGGATTTA	 AGGNTTTA	 AGG[ACGT]TTTA
+Cac8I	 -1	     		 TGGCCY		 TGGCC[CT]
+[2] GC Content: 0.039900
+[3] Sequence length: 401
+[6] Detection of poly(A) signal (AATAAA):
+No.	Start	End	Signal
+1	17		22	AGTATA
+2	29		34	ATTACA
+3	61		66	ATTTTA
+4	138		143	AATAAA
+5	214		219	ATTTCA
+6	353		358	AATTAA
+7	376		381	ATTAAA
+
+>ENSEMBL10 GeneID 10
+[1] Nucleotide Counts: A=116 T=116 G=67 C=61 Other=0
+[4] Restriction Sites:
+Name	 Pos	 Seq		 IUPAC	 ALT
+BclI	 -1	  	 ACAAGGG	 ACAAGGG
+BfmI	 119	 GGAGCACT	 GGRGCAYT	 GG[AG]GCA[CT]T
+EcoRI	 151	 AGGATTTA	 AGGNTTTA	 AGG[ACGT]TTTA
+Cac8I	 -1	     		 TGGCCY		 TGGCC[CT]
+[2] GC Content: 0.051948
+[3] Sequence length: 308
+[6] Detection of poly(A) signal (AATAAA):
+No.	Start	End	Signal
+1	41		46	ATTTCA
+2	124		129	AGTATA
+3	136		141	ATTACA
+4	208		213	AATAAA
+
+>ENSEMBL11 GeneID 11
+[1] Nucleotide Counts: A=150 T=150 G=107 C=84 Other=0
+[4] Restriction Sites:
+Name	 Pos	 Seq		 IUPAC	 ALT
+BclI	 -1	  	 ACAAGGG	 ACAAGGG
+BfmI	 259	 GGAGCACT	 GGRGCAYT	 GG[AG]GCA[CT]T
+EcoRI	 328	 AGGATTTA	 AGGNTTTA	 AGG[ACGT]TTTA
+Cac8I	 -1	     		 TGGCCY		 TGGCC[CT]
+[2] GC Content: 0.043384
+[3] Sequence length: 461
+[6] Detection of poly(A) signal (AATAAA):
+No.	Start	End	Signal
+1	68		73	AGTCCA
+2	181		186	ATTTCA
+3	264		269	AGTATA
+4	276		281	ATTACA
+5	308		313	ATTTTA
+
+>ENSEMBL12 GeneID 12
+[1] Nucleotide Counts: A=118 T=118 G=80 C=69 Other=0
+[4] Restriction Sites:
+Name	 Pos	 Seq		 IUPAC	 ALT
+BclI	 -1	  	 ACAAGGG	 ACAAGGG
+BfmI	 189	 GGAGCACT	 GGRGCAYT	 GG[AG]GCA[CT]T
+EcoRI	 221	 AGGATTTA	 AGGNTTTA	 AGG[ACGT]TTTA
+Cac8I	 -1	     		 TGGCCY		 TGGCC[CT]
+[2] GC Content: 0.051724
+[3] Sequence length: 348
+[6] Detection of poly(A) signal (AATAAA):
+No.	Start	End	Signal
+1	194		199	AGTATA
+2	206		211	ATTACA
+3	278		283	AATAAA
+
+>ENSEMBL13 GeneID 13
+[1] Nucleotide Counts: A=112 T=112 G=67 C=50 Other=0
+[4] Restriction Sites:
+Name	 Pos	 Seq		 IUPAC	 ALT
+BclI	 -1	  	 ACAAGGG	 ACAAGGG
+BfmI	 116	 GGAGCACT	 GGRGCAYT	 GG[AG]GCA[CT]T
+EcoRI	 185	 AGGATTTA	 AGGNTTTA	 AGG[ACGT]TTTA
+Cac8I	 -1	     		 TGGCCY		 TGGCC[CT]
+[2] GC Content: 0.028302
+[3] Sequence length: 318
+[6] Detection of poly(A) signal (AATAAA):
+No.	Start	End	Signal
+1	121		126	AGTATA
+2	133		138	ATTACA
+3	165		170	ATTTTA
+
+>ENSEMBL14 GeneID 14
+[1] Nucleotide Counts: A=96 T=96 G=46 C=35 Other=0
+[4] Restriction Sites:
+Name	 Pos	 Seq		 IUPAC	 ALT
+BclI	 -1	  	 ACAAGGG	 ACAAGGG
+BfmI	 49	 GGAGCACT	 GGRGCAYT	 GG[AG]GCA[CT]T
+EcoRI	 118	 AGGATTTA	 AGGNTTTA	 AGG[ACGT]TTTA
+Cac8I	 -1	     		 TGGCCY		 TGGCC[CT]
+[2] GC Content: 0.028000
+[3] Sequence length: 250
+[6] Detection of poly(A) signal (AATAAA):
+No.	Start	End	Signal
+1	54		59	AGTATA
+2	66		71	ATTACA
+3	98		103	ATTTTA
+4	206		211	ACTTCA
+
+>ENSEMBL15 GeneID 16
+[1] Nucleotide Counts: A=130 T=130 G=88 C=72 Other=0
+[4] Restriction Sites:
+Name	 Pos	 Seq		 IUPAC	 ALT
+BclI	 -1	  	 ACAAGGG	 ACAAGGG
+BfmI	 -1	  	 GGRGCAYT	 GG[AG]GCA[CT]T
+EcoRI	 115	 AGGATTTA	 AGGNTTTA	 AGG[ACGT]TTTA
+Cac8I	 -1	     		 TGGCCY		 TGGCC[CT]
+[2] GC Content: 0.048593
+[3] Sequence length: 391
+[6] Detection of poly(A) signal (AATAAA):
+No.	Start	End	Signal
+1	41		46	ATTTCA
+2	95		100	ATTTTA
+3	214		219	ATTTCA
+
